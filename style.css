@@ -1,0 +1,668 @@
+
+  
+  #text {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 4px;
+    font-size: 38px;
+
+  }
+ nav li a{
+ text-decoration: none;
+ color: white;
+ margin-bottom: -25px;
+
+
+ }
+ nav ul{
+    display: flex;
+    list-style: none;
+    gap: 100px;
+    margin-left: 40%;
+    
+ }
+ a:hover{
+    background-color: rgb(230, 11, 11);
+ }
+ nav{
+    background-color: black;
+    padding: 20px;
+ }
+ 
+ .blogContent{
+    margin-left: 30%;
+ }
+ 
+ #heading-one{
+  margin-left: 18%;
+  font-size: 50px;
+ }
+ #paragraph-one{
+    margin-left: 30%;
+ }
+ footer{
+    background-color: black;
+    color: white;
+
+ }
+ footer h2 {
+    text-align: center;
+ }
+ footer p{
+    text-align: center;
+ }
+ .other-books{
+    display: flex;
+    margin-left: 10%;
+ }
+ .myimages{
+    width: 20%;
+ }
+ .other-books a{
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+ }
+ #bookstitle{
+    margin-left: 30%;
+
+ }
+ #bookstitle a{
+    text-decoration: none;
+ }
+
+
+
+
+  
+  @media (max-width: 463px) {
+
+      
+  #text {
+    padding: 4px;
+    font-size: 20px;
+
+  }
+ 
+ nav ul{
+    display: flex;
+    list-style: none;
+    gap: 100px;
+    margin-left: 7%;
+    
+ }
+ 
+ .blogContent{
+    margin-left: 10%;
+ }
+ 
+ #heading-one{
+  margin-left: 10%;
+  font-size: 25px;
+ }
+ #paragraph-one{
+    margin-left: 30%;
+ }
+ footer{
+    background-color: black;
+    color: white;
+
+ }
+ footer h2 {
+    text-align: center;
+ }
+ footer p{
+    text-align: center;
+ }
+ .other-books{
+    display: flex;
+    margin-left: 25%;
+ }
+ .myimages{
+    width: 20%;
+ }
+ .other-books a{
+    text-decoration: none;
+    color: rgb(77, 73, 73);
+ }
+ #bookstitle{
+    margin-left: 40%;
+    font-size: 25px;
+
+ }
+ #bookstitle a{
+    text-decoration: none;
+ }
+ .noahimage{
+    width: 80vw;
+
+ }
+ 
+
+
+  }
+  @media (max-width: 375px) {
+
+      
+    #text {
+      padding: 4px;
+      font-size: 20px;
+  
+    }
+   
+   nav ul{
+      display: flex;
+      list-style: none;
+      gap: 70px;
+      margin-left: 1.5%;
+      
+   }
+   
+   .blogContent{
+      margin-left: 10%;
+   }
+   
+   #heading-one{
+    margin-left: 10%;
+    font-size: 25px;
+   }
+   #paragraph-one{
+      margin-left: 30%;
+   }
+   footer{
+      background-color: black;
+      color: white;
+  
+   }
+   footer h2 {
+      text-align: center;
+   }
+   footer p{
+      text-align: center;
+   }
+   .other-books{
+      display: flex;
+      margin-left: 20%;
+   }
+   .myimages{
+      width: 20%;
+   }
+   .other-books a{
+      text-decoration: none;
+      color: rgb(77, 73, 73);
+      font-size: 10px;
+   }
+   #bookstitle{
+      margin-left: 35%;
+      font-size: 25px;
+  
+   }
+   #bookstitle a{
+      text-decoration: none;
+   }
+   .noahimage{
+      width: 80vw;
+  
+   }
+   
+  
+  
+    }
+    @media (max-width: 463px) {
+
+      
+        #text {
+          padding: 4px;
+          font-size: 20px;
+      
+        }
+       
+       nav ul{
+          display: flex;
+          list-style: none;
+          gap: 40px;
+          margin-left: 7%;
+          
+       }
+       
+       .blogContent{
+          margin-left: 10%;
+       }
+       
+       #heading-one{
+        margin-left: 10%;
+        font-size: 25px;
+       }
+       #paragraph-one{
+          margin-left: 30%;
+       }
+       footer{
+          background-color: black;
+          color: white;
+      
+       }
+       footer h2 {
+          text-align: center;
+       }
+       footer p{
+          text-align: center;
+       }
+       .other-books{
+          display: flex;
+          margin-left: 25%;
+       }
+       .myimages{
+          width: 20%;
+       }
+       .other-books a{
+          text-decoration: none;
+          color: rgb(77, 73, 73);
+       }
+       #bookstitle{
+          margin-left: 40%;
+          font-size: 25px;
+      
+       }
+       #bookstitle a{
+          text-decoration: none;
+       }
+       .noahimage{
+          width: 80vw;
+      
+       }
+       
+      
+      
+        }
+        @media (max-width: 414px) {
+      
+            
+          #text {
+            padding: 4px;
+            font-size: 20px;
+        
+          }
+         
+         nav ul{
+            display: flex;
+            list-style: none;
+            gap: 30px;
+            margin-left: 1.5%;
+            
+         }
+         
+         .blogContent{
+            margin-left: 10%;
+         }
+         
+         #heading-one{
+          margin-left: 10%;
+          font-size: 25px;
+         }
+         #paragraph-one{
+            margin-left: 30%;
+         }
+         footer{
+            background-color: black;
+            color: white;
+        
+         }
+         footer h2 {
+            text-align: center;
+         }
+         footer p{
+            text-align: center;
+         }
+         .other-books{
+            display: flex;
+            margin-left: 20%;
+         }
+         .myimages{
+            width: 20%;
+         }
+         .other-books a{
+            text-decoration: none;
+            color: rgb(77, 73, 73);
+            font-size: 10px;
+         }
+         #bookstitle{
+            margin-left: 35%;
+            font-size: 25px;
+        
+         }
+         #bookstitle a{
+            text-decoration: none;
+         }
+         .noahimage{
+            width: 80vw;
+        
+         }
+        }
+        @media (max-width: 768px) {
+      
+            
+            #text {
+              padding: 4px;
+              font-size: 20px;
+          
+            }
+           
+           nav ul{
+              display: flex;
+              list-style: none;
+              gap: 30px;
+              margin-left: 30%;
+              
+           }
+           
+           .blogContent{
+              margin-left: 10%;
+           }
+           
+           #heading-one{
+            margin-left: 10%;
+            font-size: 25px;
+           }
+           #paragraph-one{
+              margin-left: 30%;
+           }
+           footer{
+              background-color: black;
+              color: white;
+          
+           }
+           footer h2 {
+              text-align: center;
+           }
+           footer p{
+              text-align: center;
+           }
+           .other-books{
+              display: flex;
+              margin-left: 20%;
+           }
+           .myimages{
+              width: 20%;
+           }
+           .other-books a{
+              text-decoration: none;
+              color: rgb(77, 73, 73);
+              font-size: 10px;
+           }
+           #bookstitle{
+              margin-left: 35%;
+              font-size: 25px;
+          
+           }
+           #bookstitle a{
+              text-decoration: none;
+           }
+           .noahimage{
+              width: 80vw;
+          
+           }
+          }
+
+        @media (max-width: 1024px) {
+      
+            
+            #text {
+              padding: 4px;
+              font-size: 20px;
+          
+            }
+           
+           nav ul{
+              display: flex;
+              list-style: none;
+              gap: 30px;
+              margin-left: 30%;
+              
+           }
+           
+           .blogContent{
+              margin-left: 10%;
+           }
+           
+           #heading-one{
+            margin-left: 25%;
+            font-size: 25px;
+           }
+           #paragraph-one{
+              margin-left: 30%;
+           }
+           footer{
+              background-color: black;
+              color: white;
+          
+           }
+           footer h2 {
+              text-align: center;
+           }
+           footer p{
+              text-align: center;
+           }
+           .other-books{
+              display: flex;
+              margin-left: 20%;
+           }
+           .myimages{
+              width: 20%;
+           }
+           .other-books a{
+              text-decoration: none;
+              color: rgb(77, 73, 73);
+              font-size: 10px;
+           }
+           #bookstitle{
+              margin-left: 35%;
+              font-size: 25px;
+          
+           }
+           #bookstitle a{
+              text-decoration: none;
+           }
+           .noahimage{
+              width: 80vw;
+          
+           }
+          }
+          @media (max-width: 344px) {
+      
+            
+            #text {
+              padding: 4px;
+              font-size: 20px;
+          
+            }
+           
+           nav ul{
+              display: flex;
+              list-style: none;
+              gap: 3px;
+              margin-left:1% ;
+            
+              
+           }
+           
+           .blogContent{
+              margin-left: 10%;
+           }
+           
+           #heading-one{
+            margin-left: 15%;
+            font-size: 20px;
+           }
+           #paragraph-one{
+              margin-left: 30%;
+           }
+           footer{
+              background-color: black;
+              color: white;
+          
+           }
+           footer h2 {
+              text-align: center;
+           }
+           footer p{
+              text-align: center;
+           }
+           .other-books{
+              display: flex;
+              margin-left: 20%;
+           }
+           .myimages{
+              width: 20%;
+           }
+           .other-books a{
+              text-decoration: none;
+              color: rgb(77, 73, 73);
+              font-size: 10px;
+           }
+           #bookstitle{
+              margin-left: 35%;
+              font-size: 25px;
+          
+           }
+           #bookstitle a{
+              text-decoration: none;
+           }
+           .noahimage{
+              width: 80vw;
+          
+           }
+          }
+
+          @media (max-width: 540px) {
+      
+            
+            #text {
+              padding: 4px;
+              font-size: 15px;
+          
+            }
+           
+           nav ul{
+              display: flex;
+              list-style: none;
+              gap: 10px;
+              margin-left: 20%;
+              
+           }
+           
+           .blogContent{
+              margin-left: 10%;
+           }
+           
+           #heading-one{
+            margin-left: 20%;
+            font-size: 20px;
+           }
+           #paragraph-one{
+              margin-left: 30%;
+           }
+           footer{
+              background-color: black;
+              color: white;
+          
+           }
+           footer h2 {
+              text-align: center;
+           }
+           footer p{
+              text-align: center;
+           }
+           .other-books{
+              display: flex;
+              margin-left: 20%;
+           }
+           .myimages{
+              width: 20%;
+           }
+           .other-books a{
+              text-decoration: none;
+              color: rgb(77, 73, 73);
+              font-size: 10px;
+           }
+           #bookstitle{
+              margin-left: 35%;
+              font-size: 25px;
+          
+           }
+           #bookstitle a{
+              text-decoration: none;
+           }
+           .noahimage{
+              width: 80vw;
+          
+           }
+          }
+
+          @media (max-width: 1280px) {
+      
+            
+            #text {
+              padding: 4px;
+              font-size: 40px;
+          
+            }
+           
+           nav ul{
+              display: flex;
+              list-style: none;
+              gap: 80px;
+              margin-left: 35%;
+              
+           }
+           
+           .blogContent{
+              margin-left: 10%;
+           }
+           
+           #heading-one{
+            margin-left: 32%;
+            font-size: 30px;
+           }
+           #paragraph-one{
+              margin-left: 35%;
+           }
+           footer{
+              background-color: black;
+              color: white;
+          
+           }
+           footer h2 {
+              text-align: center;
+           }
+           footer p{
+              text-align: center;
+           }
+           .other-books{
+              display: flex;
+              margin-left: 20%;
+           }
+           .myimages{
+              width: 20%;
+           }
+           .other-books a{
+              text-decoration: none;
+              color: rgb(77, 73, 73);
+              font-size: 10px;
+           }
+           #bookstitle{
+              margin-left: 35%;
+              font-size: 25px;
+          
+           }
+           #bookstitle a{
+              text-decoration: none;
+           }
+           .noahimage{
+              width: 80vw;
+          
+           }
+          }
+
+
+
+  
