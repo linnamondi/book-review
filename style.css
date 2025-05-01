@@ -663,6 +663,71 @@
            }
           }
 
+          @media (max-width: 412px) {
+      
+            
+            #text {
+              padding: 4px;
+              font-size: 15px;
+          
+            }
+           
+           nav ul{
+              display: flex;
+              list-style: none;
+              gap: 10px;
+              margin-left: 20%;
+              
+           }
+           
+           .blogContent{
+              margin-left: 10%;
+           }
+           
+           #heading-one{
+            margin-left: 20%;
+            font-size: 20px;
+           }
+           #paragraph-one{
+              margin-left: 30%;
+           }
+           footer{
+              background-color: black;
+              color: white;
+          
+           }
+           footer h2 {
+              text-align: center;
+           }
+           footer p{
+              text-align: center;
+           }
+           .other-books{
+              display: flex;
+              margin-left: 20%;
+           }
+           .myimages{
+              width: 20%;
+           }
+           .other-books a{
+              text-decoration: none;
+              color: rgb(77, 73, 73);
+              font-size: 10px;
+           }
+           #bookstitle{
+              margin-left: 35%;
+              font-size: 25px;
+          
+           }
+           #bookstitle a{
+              text-decoration: none;
+           }
+           .noahimage{
+              width: 80vw;
+          
+           }
+          }
+
 
 
   
