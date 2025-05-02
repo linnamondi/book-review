@@ -1,21 +1,7 @@
 html{
    scroll-behavior: smooth;
 }
-nav i{
-   position: absolute;
-   z-index: 1000;
-   font-size: 30px;
-   color: white;
-   top: 18%;
-   margin-left: 24%;
 
-
-   
-
-}
-.icons{
-   margin-left:3%;
-}
 
 
 
@@ -27,6 +13,7 @@ nav i{
     padding: 4px;
     font-size: 38px;
     margin-left: 10%;
+    text-align: center;
 
   }
  nav li a{
@@ -50,6 +37,7 @@ nav i{
  nav{
     background-color: black;
     padding: 20px;
+    text-align: center;
    
  }
  
@@ -99,14 +87,14 @@ nav i{
 @media(min-width:375px) and (max-width:700px){
 
    nav i{
-      display: hidden;
+      display: none;
    
    
       
    
    }
    .icons{
-      display: hidden;
+      display: none;
    }
      
   #text {   padding: 2px;
@@ -184,14 +172,14 @@ footer p{
 
 @media(min-width:768px) and (max-width:1024px){ 
    nav i{
-      display: hidden;
+      display: none;
    
    
       
    
    }
    .icons{
-      display: hidden;
+      display: none;
    }
       
             
@@ -259,14 +247,11 @@ footer p{
  @media(min-width:540px) and (max-width:720px){
 
    nav i{
-      display: hidden;
-   
-   
-      
+      display: none;  
    
    }
    .icons{
-      display: hidden;
+      display: none;
    }
    #text {
      padding: 4px;
@@ -333,14 +318,14 @@ footer p{
  
      @media (min-width: 360px) and (max-width:720px) {
       nav i{
-         display: hidden;
+         display: none;
       
       
          
       
       }
       .icons{
-         display: hidden;
+         display: none;
       }
        
          #text {
@@ -409,7 +394,17 @@ footer p{
 
   
   @media (max-width: 344px) and (min-width:800px){
-
+   nav i{
+      display: none;
+   
+   
+      
+   
+   }
+   .icons{
+      display: none;
+   }
+    
    
   #text {
     padding: 4px;
@@ -476,14 +471,14 @@ footer p{
     @media (max-width: 1280px) {
 
       nav i{
-         display: hidden;
+         display: none;
       
       
          
       
       }
       .icons{
-         display: hidden;
+         display: none;
       }
         #text {
           padding: 4px;
@@ -551,14 +546,14 @@ footer p{
         @media (max-width: 414px) {
       
          nav i{
-            display: hidden;
+            display: none;
          
          
             
          
          }
          .icons{
-            display: hidden;
+            display: none;
          }
           #text {
             padding: 4px;
@@ -624,14 +619,14 @@ footer p{
         @media (max-width: 768px) {
       
          nav i{
-            display: hidden;
+            display: none;
          
          
             
          
          }
          .icons{
-            display: hidden;
+            display: none;
          }
             #text {
               padding: 4px;
@@ -697,14 +692,14 @@ footer p{
 
         @media (max-width: 1024px) {
          nav i{
-            display: hidden;
+            display: none;
          
          
             
          
          }
          .icons{
-            display: hidden;
+            display: none;
          }
             
             #text {
@@ -770,14 +765,14 @@ footer p{
           }
           @media (max-width: 344px) {
             nav i{
-               display: hidden;
+               display: none;
             
             
                
             
             }
             .icons{
-               display: hidden;
+               display: none;
             }
             
             #text {
@@ -846,14 +841,14 @@ footer p{
           @media (max-width: 540px) {
       
             nav i{
-               display: hidden;
+               display: none;
             
             
                
             
             }
             .icons{
-               display: hidden;
+               display: none;
             }
             #text {
               padding: 4px;
@@ -919,14 +914,14 @@ footer p{
 
           @media(min-width:768px) and (max-width:1024px) {
             nav i{
-               display: hidden;
+               display: none;
             
             
                
             
             }
             .icons{
-               display: hidden;
+               display: none;
             }
             
             #text {
@@ -994,14 +989,14 @@ footer p{
           @media (max-width: 412px) {
       
             nav i{
-               display: hidden;
+               display: none;
             
             
                
             
             }
-            .icons{
-               display: hidden;
+            .icons {
+               display: none;
             }
             #text {
               padding: 4px;
